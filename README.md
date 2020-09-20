@@ -1,1 +1,1 @@
-# Collaborative-code-editor
+# Collaborative-canvas
